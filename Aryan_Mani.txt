@@ -3,4 +3,8 @@ My name used to be Aryan Mani
 =======
 My name has always been Aryan Mani
 
+
 I am about to check git stashing
+=======
+I have successfully tested git stashing
+
